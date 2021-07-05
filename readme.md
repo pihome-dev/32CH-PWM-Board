@@ -1,4 +1,4 @@
-# piHOME Mainboard Firmware Revision 1.0
+# piHOME 32Channel PWM Controller Revision 1.0
 
 Information
 
