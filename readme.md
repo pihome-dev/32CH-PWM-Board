@@ -24,7 +24,7 @@ A list
 # Instructions
 Build instructions with images can be found here:
 
-## config.h
+### config.h
 
 Different configuration values can be set in Config.h. The most important values are F_CPU and Outsorting.
 
@@ -32,4 +32,4 @@ Different configuration values can be set in Config.h. The most important values
 
 It is mandatory The F_CPU is set with the right CPU clock being set as it can otherwise come to an undesirable behavior.
 
-## pins.h
+### pins.h
