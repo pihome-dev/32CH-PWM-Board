@@ -17,9 +17,10 @@ A list
 # Build
 
 1. Set configuration in config.h
-2. run 'make clean'
-3. run 'make hex'
-4. run 'make program' (Optionally)
+2. Set pinconfiguration in pins.h
+3. run 'make clean'
+4. run 'make hex'
+5. run 'make program' (Optionally)
 
 # Instructions
 Build instructions with images can be found here:
