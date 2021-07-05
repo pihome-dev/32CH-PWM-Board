@@ -32,7 +32,11 @@ Different configuration values can be set in Config.h. The most important values
 
 It is mandatory The F_CPU is set with the right CPU clock being set as it can otherwise come to an undesirable behavior.
 
+<<<<<<< HEAD
 Platform|MCU|Example Boards
   --------|---|-------
 
 #### pins.h
+=======
+#### pins.h
+>>>>>>> 8705ebaeb7345f0ff439e0df399cb29e6dcf4115
