@@ -37,4 +37,6 @@ Setting|Value|Description
   --------|---|-------
   F_CPU|8000000 - 16000000|Set the CPU Frequency
   OUTSORTING|0,1|Set the Output Pindirection
+  F_PWM| 50 - 100 |
+  PWM_STEPS|100 - 255 | 
 #### pins.h
