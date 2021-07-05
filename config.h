@@ -1,16 +1,16 @@
-#define F_CPU         								16000000L  		// Systemtakt in Hz
+#define F_CPU         								16000000L  							// Systemtakt in Hz
 
-#define F_PWM 									100                         // PWM-Frequenz in Hz
-#define PWM_STEPS 								250                         // PWM-Schritte pro Zyklus(1..255)
-#define T_PWM 											(F_CPU/(F_PWM*PWM_STEPS))   // Systemtakte pro PWM-Takt
+#define F_PWM 											100                         	// PWM-Frequenz in Hz
+#define PWM_STEPS 									250                         	// PWM-Schritte pro Zyklus(1..255)
+#define T_PWM 											(F_CPU/(F_PWM*PWM_STEPS))   	// Systemtakte pro PWM-Takt
 
 // Timer
-#define TIMERFREQ								10				   // Timerfrequenz in ms
-#define TIMERPRE								256				// Timer Prescaler
+#define TIMERFREQ										10				   					// Timerfrequenz in ms
+#define TIMERPRE										256									// Timer Prescaler
 
 #define i2c_buffer_size 							50
 
-#define OUTSORTING								1
+#define OUTSORTING									1
 
 //// OUTSORTING
 // 

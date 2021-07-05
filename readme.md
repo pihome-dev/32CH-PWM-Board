@@ -13,7 +13,6 @@ A list
 5. Dimensions
 6. Holes
 
-
 # Build
 
 1. Set configuration in config.h
@@ -24,3 +23,13 @@ A list
 
 # Instructions
 Build instructions with images can be found here:
+
+## config.h
+
+Different configuration values can be set in Config.h. The most important values are F_CPU and Outsorting.
+
+*** Important
+
+It is mandatory The F_CPU is set with the right CPU clock being set as it can otherwise come to an undesirable behavior.
+
+## pins.h
