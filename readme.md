@@ -16,7 +16,10 @@ A list
 
 # Build
 
-Here comes the Build information
+1. Set configuration in config.h
+2. run 'make clean'
+3. run 'make hex'
+4. run 'make program' (Optionally)
 
 # Instructions
 Build instructions with images can be found here:
