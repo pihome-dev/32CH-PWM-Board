@@ -39,3 +39,13 @@ It is mandatory The F_CPU is set with the right CPU clock being set as it can ot
   OUTSORTING|0,1|Set the Output Pindirection
   F_PWM| 50 - 100 |Set the PWM Frequency
   PWM_STEPS|100 - 255 |Set max. PWM Steps
+  
+  #### Outsorting Table
+ 
+ #### => 1 (Default)
+ CH1  | CH3  | CH5  | CH7  | CH9  | CH11 | CH13 | CH15 | CH17 | CH19 | CH21 | CH23 | CH25 | CH27 | CH29 | CH31
+ CH2  | CH4  | CH6  | CH8  | CH10 | CH12 | CH14 | CH16 | CH18 | CH20 | CH22 | CH24 | CH26 | CH28 | CH30 | CH32
+
+ #### => 2
+ CH1  | CH2  | CH3  | CH4  | CH5  | CH6  | CH7  | CH8  | CH9  | CH10 | CH11 | CH12 | CH13 | CH14 | CH15 | CH16
+ CH17 | CH18 | CH19 | CH20 | CH21 | CH22 | CH23 | CH24 | CH25 | CH26 | CH27 | CH28 | CH29 | CH30 | CH31 | CH32
