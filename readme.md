@@ -37,5 +37,5 @@ Setting|Value|Description
   --------|---|-------
   F_CPU|8000000 - 16000000|Set the CPU Frequency
   OUTSORTING|0,1|Set the Output Pindirection
-  F_PWM| 50 - 100 |PWM Frequency
-  PWM_STEPS|100 - 255 |PWM Steps
+  F_PWM| 50 - 100 |Set the PWM Frequency
+  PWM_STEPS|100 - 255 |Set max. PWM Steps
