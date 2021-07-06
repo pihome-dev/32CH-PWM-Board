@@ -42,7 +42,7 @@ It is mandatory The F_CPU is set with the right CPU clock being set as it can ot
   
   #### Outsorting Table
  
-  #### 1 (Default)
+  CH1  | CH3  | CH5  | CH7  | CH9  | CH11 | CH13 | CH15 | CH17 | CH19 | CH21 | CH23 | CH25 | CH27 | CH29 | CH31
   --------|---|-------
   CH1  | CH3  | CH5  | CH7  | CH9  | CH11 | CH13 | CH15 | CH17 | CH19 | CH21 | CH23 | CH25 | CH27 | CH29 | CH31
   
