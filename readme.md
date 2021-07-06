@@ -33,7 +33,7 @@ Different configuration values can be set in Config.h. The most important values
 It is mandatory The F_CPU is set with the right CPU clock being set as it can otherwise come to an undesirable behavior.
 
 
-Setting|Value|Description
+  Setting|Value|Description
   --------|---|-------
   F_CPU|12000000 - 16000000|Set the CPU Frequency
   OUTSORTING|0,1|Set the Output Pindirection
