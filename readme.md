@@ -2,6 +2,11 @@
 
 Information
 
+The piHOME 32 channel PWM controller can be connected directly to the piHOME system via the piHOME Connect Bus.
+
+The controller is ideal for dimming up to 32 lamps. The output voltage can be set to 5V (900mA max. Total voltage of all outputs) or operating voltage via a switch.
+
+As with all piHOME additional components, 8 controllers can also be operated per mainboard. This enables PWM / switching channels of up to 256 pieces.
 
 # Build
 
