@@ -6,6 +6,15 @@ The controller is ideal for dimming up to 32 lamps. The output voltage can be se
 
 As with all piHOME additional components, 8 controllers can also be operated per mainboard. This enables PWM / switching channels of up to 256 pieces.
 
+### Features
+
+1. 32 PWM Channels
+2. 500mA per Channel
+3. Output Voltage Switch (5V/VCC)
+4. piHOME Connect Bus
+5. Standalone Control (I2C)
+6. piHOME System compatile
+
 # Build
 
 1. Set configuration in config.h
