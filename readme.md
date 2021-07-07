@@ -35,6 +35,12 @@ It is mandatory The F_CPU is set with the right CPU clock being set as it can ot
   
   #### Outsorting Table
   
+  #### => 1 (default)  
+  
   P1|P2|P3|P4|P5|P6|P7|P8|P9|P10|P11|P12|P13|P14|P15|P16
   -------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|-------
   CH1|CH2|CH3|CH4|CH5|CH6|CH7|CH8|CH9|CH10|CH11|CH12|CH13|CH14|CH15|CH16
+  
+  P17|P18|P19|P20|P21|P22|P23|P24|P25|P26|P27|P28|P29|P30|P31|P32
+  -------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|-------
+  CH17|CH18|CH19|CH20|CH21|CH22|CH23|CH24|CH25|CH26|CH27|CH28|CH29|CH30|CH31|CH32
